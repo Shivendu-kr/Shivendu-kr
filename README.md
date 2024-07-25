@@ -1,14 +1,12 @@
-# Hi, I'm Shivendu Kumar!
+#👋 Hi there! I'm Shivendu Kumar Mandal, an enthusiastic Engineer and Developer with a passion for cutting-edge technologies. Welcome to my GitHub profile!
 
-I'm a Engineer and Developer, passionate about Technologies. Welcome to my GitHub profile!
-
-## About Me
-
-- 🌱 I'm currently learning Clound Computing and other related technology.
-- 💡 I'm interested in Cloud and Security.
-- 💻 I'm skilled in Web and languages like C/C++,Web Full Stack[Html,Css,Js,Mongo etc.].
-- 🎓 I'm currently pursuing my B.Tech .
-- 🔭 I'm currently a Student. 
+About Me
+🌱 I’m currently diving deep into Artificial Intelligence and Machine Learning, exploring new advancements and technologies in the field.
+💡 I’m particularly interested in developing innovative solutions and enhancing user experiences through technology.
+💻 I’m skilled in full-stack web development and proficient in languages such as C/C++, HTML, CSS, JavaScript, and frameworks like Node.js and MongoDB.
+🎓 I’m Graduated B.Tech in Computer Science from Arya College of Engineering and I.T., Jaipur.
+🔭 As a Learner, I’m always eager to learn, grow, and contribute to exciting projects.
+Feel free to explore my repositories and connect with me on LinkedIn!: [Shivendu Kumar](https://www.linkedin.com/in/shivendu-kumar-mandal-969134212/)
 
 ## Projects
 
