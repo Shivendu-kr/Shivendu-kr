@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently diving deep into Artificial Intelligence and Machine Learning, exploring new advancements and technologies in the field.
+- 🌱 I’m currently diving deep into Artificial Intelligence and Machine Learning, exploring  new advancements and technologies in the field.
 - 💡 I’m particularly interested in developing innovative solutions and enhancing user experiences through technology.
 - 💻 I’m skilled in full-stack web development and proficient in languages such as C/C++, HTML, CSS, JavaScript, and frameworks like Node.js and MongoDB.
 - 🎓 I’m a B.Tech graduate in Computer Science 2024 batch from Arya College of Engineering and I.T., Jaipur..
@@ -17,7 +17,7 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 - [Expense Tracker](https://shivendu-kr.github.io/Expense_Tracker/).
 - More coming soon..............................
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) Badges.. 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/Postman White.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/1.png" width="100px" height="100px" />
